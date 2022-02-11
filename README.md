@@ -13,7 +13,7 @@ Tasks considered as completed in case test is not failed
 -------------------------------------------------------------------------------
 
 ```bash
-go mod init
+go mod init solution
 go mod tidy
 ```
 

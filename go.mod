@@ -1,4 +1,4 @@
-module hw1
+module solution
 
 go 1.17
 
