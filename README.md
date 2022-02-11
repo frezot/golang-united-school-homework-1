@@ -9,3 +9,16 @@ Task:
 
 To run tests for run cmd "go test -v ."
 Tasks considered as completed in case test is not failed
+
+-------------------------------------------------------------------------------
+
+```bash
+go mod init
+go mod tidy
+```
+
+https://golangbyexample.com/add-dependency-module-golang/
+
+```bash
+go get github.com/kyokomi/emoji
+```
